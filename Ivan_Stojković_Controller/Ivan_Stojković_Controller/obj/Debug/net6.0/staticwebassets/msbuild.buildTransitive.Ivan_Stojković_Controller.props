@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ivan_Stojković_Controller.props" />
+</Project>
